@@ -58,3 +58,4 @@ while True:
 #  "Fix incorrect  output in Stack.reverse()
 
 #  update 
+# Add DoublyLinkedList class with insert/delete methods
